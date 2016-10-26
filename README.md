@@ -5,7 +5,16 @@ These are projects that are no longer maintained, for whatever reason.
 
 ---
 
-Each project has a badge and an explanation as to why the project is no longer maintained.
+Any existing issues on the project at archival will be closed, and given the
+"unresolved" label, indicating that the issue was never resolved when the
+project was archived.
+
+Any new issues or pull requests for the archived project will be ignored.
+Contact Ivan [(@SEAPUNK)](https://github.com/SEAPUNK) if you want to take
+over the project.
+
+Each project has a badge and an explanation as to why the project is no longer
+maintained:
 
 The badge will be one of the following:
 
